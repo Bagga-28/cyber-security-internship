@@ -1,5 +1,3 @@
-Task 1 - Digital Safety Awareness
-
 What is Cyber Security?
 Cyber security is the practice of protecting systems, networks, and data from cyber attacks.
 
